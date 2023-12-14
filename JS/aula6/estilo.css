@@ -1,0 +1,13 @@
+body{
+  background-color: teal;
+  padding: 5pt;
+  margin: auto;
+  text-align: center;
+}
+section{
+  background-color: antiquewhite;
+  width: 500px;
+  margin: auto;
+  border-radius: 12pt;
+  padding: 50px;
+}

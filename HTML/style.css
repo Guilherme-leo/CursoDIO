@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  background-color: cadetblue;
+  margin: auto;
+}
+p{
+  font-size: 15pt;
+  text-transform: capitalize;
+}
+section{
+  text-align: center;
+  background-color: aqua;
+  border-radius: 12pt;
+  border: 3px solid blue;
+  border-top: 5px dotted green;
+  border-right: 4px dashed pink;
+  max-width: 1060px;
+  margin: auto;
+}
+
+.imagem{
+  border-radius: 50%;
+  border: 2px solid gray;
+  height: 400px;
+}
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+ul li a{
+  text-decoration: line-through;
+  font-size: 15pt;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+}
